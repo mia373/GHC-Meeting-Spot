@@ -2,7 +2,7 @@
 1. Download the repository
 2. Set up the project with npm and install the required dependencies.
   - Change your project directory:
-    cd /d "e:\Projects\vGHC-Slot-Checker-main\vGHC-Slot-Checker-main"
+    cd "d:\Projects\vGHC-Slot-Checker-main\vGHC-Slot-Checker-main"
   - Initialize the project with npm:
     npm init -y
   - Install the required dependency:
